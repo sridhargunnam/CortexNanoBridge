@@ -1,3 +1,4 @@
+first commit
 Download the Jetson Nano Dev Kit SD Card Image (https://developer.nvidia.com/embedded/downloads)
 Flash the Image onto the available SD Card using balenaEtcher. Close any popups that open up. Eject the SD card once finished.
 After putting the SD card in, attach an HDMI cable, a keyboard and a mouse, then plug in the power cable to boot it up.
